@@ -1,5 +1,5 @@
 body {
-    background-image: url(/week6/foodday/assets/images/background.png);
+    background-image: url(/assets/images/background.png);
     background-repeat: no-repeat;
 
 }
@@ -7,7 +7,6 @@ body {
 .grid {
     width: 1603px;
     height: 1091px;
-    border: 1px solid red;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
